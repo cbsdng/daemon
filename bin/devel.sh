@@ -1,5 +1,5 @@
 #!/bin/sh
 
 
-cd /usr/src
+cd /usr/src/cbsdng
 tcsh
