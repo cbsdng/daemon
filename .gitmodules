@@ -1,6 +1,6 @@
 [submodule "cbsdng"]
 	path = cbsdng
 	url = https://github.com/cbsdng/cbsdng
-[submodule "cbsdngd"]
-	path = cbsdngd
-	url = https://github.com/cbsdng/cbsdngd
+[submodule "proxy"]
+	path = proxy
+	url = https://github.com/cbsdng/proxy
